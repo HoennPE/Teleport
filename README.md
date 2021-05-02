@@ -1,5 +1,5 @@
 # Teleport
-Plugin for PMnS, created by Clarence2810, modified by princepines
+Plugin for HoennPE, created by Clarence2810, modified by princepines
 
 <b>Teleport Anywhere! using commmands!
 
